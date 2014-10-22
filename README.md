@@ -1,4 +1,4 @@
 first_repo_test
 ===============
 
-First repository
+First repository for testing purposes.
